@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bipin
 - 👀 I’m interested in microservices,API,Docker,AWS,Python,Streamlit
-- 🌱 I’m currently learning AI/ML,Gen AI,LLMs
+- 🌱 I’m currently working on AI/ML,Gen AI,LLMs
 - 💞️ I’m looking to collaborate on the above any of community projects
 - 📫 How to reach me ...you can drop a mail bipinsreddy@gmail.com
 
